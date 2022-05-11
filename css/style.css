@@ -1,0 +1,25 @@
+body {
+    background-image:url(../img/ola-de-colores-6815.jpg) ;
+    margin: 0px;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top:30px ;
+    padding-bottom: 65px;
+}
+#contenedor h1{
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    font-family: cursive;
+    text-transform: uppercase ;
+    
+    }
+    p{
+        color: rgb(0, 0, 0);
+        font-size: 25px;
+        font-family: cursive;
+        text-decoration-line: blink;
+    
+    }
+    
